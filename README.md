@@ -1,6 +1,6 @@
-# DeepScan Vision
+# QR Code Decode Skill
 
-QR code detection and decoding service. Upload an image, get structured results.
+QR code detection and decoding skill for AI agents. Upload an image (URL or base64), get structured results — decoded content, format, content type, position, and confidence.
 
 **Service URL:** `https://data.cli.im/x-deepscan/vision`
 
